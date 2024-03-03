@@ -130,7 +130,7 @@ fun MyAppNavGraph(
                 navController.navigate(NavigationDestination.CategoryScreen.route)
             }
         }
-g
+
         composable(NavigationDestination.CategoryScreen.route) {
             val category =
                 navController.previousBackStackEntry?.savedStateHandle?.get<Category>("cat")
