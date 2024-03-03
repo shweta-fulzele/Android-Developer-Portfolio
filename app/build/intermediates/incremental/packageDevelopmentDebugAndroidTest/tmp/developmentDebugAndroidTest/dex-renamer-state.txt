@@ -1,0 +1,13 @@
+#Sun Mar 03 06:35:05 IST 2024
+base.0=/home/lnv99/AndroidPersonalizedProjects/Portfolio/app/build/intermediates/dex/developmentDebugAndroidTest/mergeExtDexDevelopmentDebugAndroidTest/classes.dex
+base.1=/home/lnv99/AndroidPersonalizedProjects/Portfolio/app/build/intermediates/dex/developmentDebugAndroidTest/mergeProjectDexDevelopmentDebugAndroidTest/0/classes.dex
+base.2=/home/lnv99/AndroidPersonalizedProjects/Portfolio/app/build/intermediates/dex/developmentDebugAndroidTest/mergeProjectDexDevelopmentDebugAndroidTest/1/classes.dex
+base.3=/home/lnv99/AndroidPersonalizedProjects/Portfolio/app/build/intermediates/dex/developmentDebugAndroidTest/mergeProjectDexDevelopmentDebugAndroidTest/4/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
