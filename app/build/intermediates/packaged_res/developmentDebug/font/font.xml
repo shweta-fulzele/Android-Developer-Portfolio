@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font android:font="@font/figtreeblack" />
+    <font android:font="@font/figtreebold" />
+    <font android:font="@font/figtreeextrabold" />
+    <font android:font="@font/figtreelight" />
+    <font android:font="@font/figtreemedium" />
+    <font android:font="@font/figtreeregular" />
+    <font android:font="@font/figtreesemibold" />
+</font-family>

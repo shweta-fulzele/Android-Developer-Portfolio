@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about_me">About Me</string>
+    <string name="achievements">Achievements</string>
+    <string name="add">Add</string>
+    <string name="address">Address</string>
+    <string name="adept_at_collaborating_with_cross_functional_teams">Adept at collaborating with cross-functional teams to drive project
+success.</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="app_name">Portfolio</string>
+    <string name="baner">Baner</string>
+    <string name="cancel">Cancel</string>
+    <string name="certification">Certificates</string>
+    <string name="city">City</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="country">Country</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="edit_profile_details">Edit Profile Details</string>
+    <string name="education">Education</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_body">Email Body</string>
+    <string name="email_id">fulzeleshweta4@gmail.com</string>
+    <string name="email_subject">Email Subject</string>
+    <string name="enter_email_body">Enter Email Body</string>
+    <string name="enter_email_subject">Enter email subject</string>
+    <string name="experience">Experience</string>
+    <string name="experienced_android_Developer_with_3_years">Experienced Android Developer with 3+ years of hands-on experience in Kotlin and Java.</string>
+    <string name="faq">FAQ</string>
+    <string name="first_name">First Name</string>
+    <string name="fulzele">Fulzele</string>
+    <string name="gender">Gender</string>
+    <string name="github">Github</string>
+    <string name="glad_to_see_you_again">Glad to see you Again</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="im_delighted_to_have_you_here">I\'m delighted to have you here</string>
+    <string name="last_name">Last Name</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="logout">Logout</string>
+    <string name="maharashtra">Maharashtra</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Name</string>
+    <string name="no">No</string>
+    <string name="okay">Okay</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pincode">Pincode</string>
+    <string name="primary_mobile_number">Primary Mobile Number</string>
+    <string name="proceed">Proceed</string>
+    <string name="professional">Professional</string>
+    <string name="proficiend_in_developing_dynamic_uis_using_xml">Proficient in developing
+dynamic UIs using XML and Jetpack Compose.</string>
+    <string name="profile">Profile</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="projects">Projects</string>
+    <string name="pune">Pune</string>
+    <string name="rajura">Rajura, Chandrapur</string>
+    <string name="secondary_mobile_number">Secondary Mobile Number</string>
+    <string name="sender_email">Sender Email</string>
+    <string name="shweta">Shweta</string>
+    <string name="shweta_fulzele">Shweta Fulzele</string>
+    <string name="skilled_in_leveraging_agile_methodologies">Skilled in leveraging Agile methodologies to streamline development
+processes and deliver high-quality solutions.</string>
+    <string name="state">State</string>
+    <string name="success">Success</string>
+    <string name="technical_skill_Set">Technical Skill Set</string>
+    <string name="technical_skills">Technical Skills</string>
+    <string name="unlock_my_achievements">Unlock My Achievements: Explore My Professional Journey</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_to_my_portfolio">Welcome to My Portfolio</string>
+    <string name="yes">Yes</string>
+    <string name="you_have_denied_storage_permissions">You have not granted permission for Storage to TRST Health.\nPlease go to Settings -> Applications -> TRST Health and enable Storage Permission.</string>
+    <style name="Theme.UrgentCareProject" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

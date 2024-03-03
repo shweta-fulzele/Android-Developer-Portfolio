@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.base.portfolio.app-mergeDevelopmentDebugResources-79:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/home/lnv99/.gradle/caches/transforms-3/6b66fe9e4da6bd1ae1edf2a25f801edc/transformed/core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}

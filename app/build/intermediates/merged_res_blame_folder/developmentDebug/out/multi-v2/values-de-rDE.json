@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.base.portfolio.app-mergeDevelopmentDebugResources-79:/values-de-rDE/values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "/home/lnv99/.gradle/caches/transforms-3/e4625408487d808d448cdc175adef2b4/transformed/core-1.2.0/res/values-de-rDE/values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,33",
+                        "endOffsets": "95,129"
+                    }
+                },
+                {
+                    "source": "/home/lnv99/.gradle/caches/transforms-3/03160773454c9cf2f3f382b2c3276bc7/transformed/calendar-1.2.0/res/values-de-rDE/values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,128,200,274,345,422",
+                        "endColumns": "72,71,73,70,76,74",
+                        "endOffsets": "123,195,269,340,417,492"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "134,207,279,353,424,501",
+                        "endColumns": "72,71,73,70,76,74",
+                        "endOffsets": "202,274,348,419,496,571"
+                    }
+                }
+            ]
+        }
+    ]
+}
