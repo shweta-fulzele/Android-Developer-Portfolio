@@ -13,8 +13,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.base.portfolio.presentation.navigation.MyNavApp
 import com.base.portfolio.theme.theme.BlackColor
+import com.base.portfolio.theme.theme.PortfolioProjectTheme
 import com.base.portfolio.theme.theme.PrimaryTextColor
-import com.base.portfolio.theme.theme.UrgentCareProjectTheme
 import com.base.portfolio.utils.apputils.BaseActivity
 import com.base.portfolio.utils.userinterfaceutils.uicomponent.UIComponents.SetStatusBarColor
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
@@ -28,7 +28,7 @@ class MainActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            UrgentCareProjectTheme {
+            PortfolioProjectTheme {
 
                 // A surface container using the 'background' color from the theme
                 Surface(
@@ -53,7 +53,7 @@ class MainActivity : BaseActivity() {
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    UrgentCareProjectTheme {
+    PortfolioProjectTheme {
         val context = LocalContext.current
 //        UrgentCareNavApp(context)
     }

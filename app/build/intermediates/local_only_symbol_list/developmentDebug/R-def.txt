@@ -136,6 +136,6 @@ string welcome
 string welcome_to_my_portfolio
 string yes
 string you_have_denied_storage_permissions
-style Theme.UrgentCareProject
+style Theme.PortfolioProject
 xml backup_rules
 xml data_extraction_rules

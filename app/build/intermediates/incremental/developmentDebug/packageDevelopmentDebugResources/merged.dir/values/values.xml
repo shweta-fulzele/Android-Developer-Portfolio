@@ -79,5 +79,5 @@ processes and deliver high-quality solutions.</string>
     <string name="welcome_to_my_portfolio">Welcome to My Portfolio</string>
     <string name="yes">Yes</string>
     <string name="you_have_denied_storage_permissions">You have not granted permission for Storage to TRST Health.\nPlease go to Settings -> Applications -> TRST Health and enable Storage Permission.</string>
-    <style name="Theme.UrgentCareProject" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.PortfolioProject" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

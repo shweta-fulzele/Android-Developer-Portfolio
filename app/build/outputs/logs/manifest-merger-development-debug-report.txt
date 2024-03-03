@@ -277,7 +277,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lnv99/.gradle/caches/
 	android:allowBackup
 		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:24:9-55
+		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:24:9-54
 	android:dataExtractionRules
 		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:17:9-65
 	android:usesCleartextTraffic
@@ -291,7 +291,7 @@ ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/Androi
 	android:exported
 		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:28:13-36
 	android:theme
-		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:30:13-59
+		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:30:13-58
 	android:name
 		ADDED from /home/lnv99/AndroidPersonalizedProjects/Portfolio/app/src/main/AndroidManifest.xml:27:13-64
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER

@@ -4736,10 +4736,10 @@ int style Theme_MaterialComponents_Light_NoActionBar 0x7f120277
 int style Theme_MaterialComponents_Light_NoActionBar_Bridge 0x7f120278
 int style Theme_MaterialComponents_NoActionBar 0x7f120279
 int style Theme_MaterialComponents_NoActionBar_Bridge 0x7f12027a
-int style Theme_SplashScreen 0x7f12027b
-int style Theme_SplashScreen_Common 0x7f12027c
-int style Theme_SplashScreen_IconBackground 0x7f12027d
-int style Theme_UrgentCareProject 0x7f12027e
+int style Theme_PortfolioProject 0x7f12027b
+int style Theme_SplashScreen 0x7f12027c
+int style Theme_SplashScreen_Common 0x7f12027d
+int style Theme_SplashScreen_IconBackground 0x7f12027e
 int style ThemeOverlay_AppCompat 0x7f12027f
 int style ThemeOverlay_AppCompat_ActionBar 0x7f120280
 int style ThemeOverlay_AppCompat_Dark 0x7f120281

@@ -37,13 +37,14 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.UrgentCareProject"
+        android:testOnly="true"
+        android:theme="@style/Theme.PortfolioProject"
         android:usesCleartextTraffic="true" >
         <activity
             android:name="com.base.portfolio.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.UrgentCareProject" >
+            android:theme="@style/Theme.PortfolioProject" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
