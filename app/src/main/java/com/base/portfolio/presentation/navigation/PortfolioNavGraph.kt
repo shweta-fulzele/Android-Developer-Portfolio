@@ -36,11 +36,10 @@ fun MyAppNavGraph(
     navController: NavHostController,
     modifier: Modifier = Modifier,
 ) {
-    val recipeViewModel: RecipeViewModel = hiltViewModel()
 
     NavHost(
         navController = navController,
-        startDestination = NavigationDestination.MainScreen.route,
+        startDestination = NavigationDestination.SplashScreen.route,
         modifier = modifier
     ) {
         composable(route = NavigationDestination.SplashScreen.route) {
@@ -131,7 +130,7 @@ fun MyAppNavGraph(
                 navController.navigate(NavigationDestination.CategoryScreen.route)
             }
         }
-
+g
         composable(NavigationDestination.CategoryScreen.route) {
             val category =
                 navController.previousBackStackEntry?.savedStateHandle?.get<Category>("cat")
